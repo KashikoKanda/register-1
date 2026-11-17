@@ -1,0 +1,12 @@
+{
+  "subdomain": "discord-quest",
+  "domain": "thedev.me",
+  "email_or_discord": "KashikoKanda",
+  "github_username": "KashikoKanda",
+  "description": "Personal Next.js dashboard I wrote for my own Discord account: lists my available quests and tracks progress (hosted on Render).",
+  "records": {
+    "CNAME": [
+      "discord-quests.onrender.com"
+    ]
+  }
+}
